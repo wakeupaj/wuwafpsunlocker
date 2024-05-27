@@ -25,7 +25,7 @@ A simple frame rate modifying tool for the new Action RPG release, [Wuthering Wa
 
 ![image](image-2.png)
 
-### That's all! Your in-game framerate should now be uncapped from 60 FPS, and you can now experience Wuthering Waves in an brand new and ultra smooth way. Enjoy!
+### That's all! Your in-game framerate should now be uncapped from 60 FPS, and you can now experience Wuthering Waves in an brand new and ultra smooth way. If you run into any problems, please create an issue ticket. Enjoy!
 
 
 
