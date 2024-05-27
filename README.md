@@ -22,6 +22,7 @@ A simple frame rate modifying tool for the new Action RPG release, [Wuthering Wa
 ![image](image-1.png)
 
 6. Finally, click on "Unlock FPS". Upon succession you will be presented with an pop-up window that looks something like this:
+
 ![image](image-2.png)
 
 ### That's all! Your in-game framerate should now be uncapped from 60 FPS, and you can now experience Wuthering Waves in an brand new and ultra smooth way. Enjoy!
