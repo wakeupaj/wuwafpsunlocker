@@ -6,14 +6,14 @@ A simple frame rate modifying tool for the new Action RPG release, [Wuthering Wa
 ### Warning ⚠ : This tool **DOES** modify certain game files, and with this, it's use may carry the risk of punishment. By downloading this tool you understand and accept any risks, and are responsible for any and all consequences.
 
 ## Instructions
-1. Head over to the [releases](https://github.com/wakeupaj/wuwafpsunlocker/releases/) section on this repository, and download the latest release titled: "WuWa_FPS_Unlocker.zip
-".
+1. Head over to the [releases](https://github.com/wakeupaj/wuwafpsunlocker/releases/) section on this repository, and download the latest release titled: "WuWa_FPS_Unlocker.zip".
 2. Once installed, open *(or extract if you prefer)* the .zip file, and launch "**WuWa FPS Unlocker.exe**"
 3. Wait for the file to open, and once it has you should be greeted with this interface: 
 
 ![image](image.png)
 
 4. Proceed by clicking on "**Select Folder**" and navigate to your Wuthering Waves installation directory. It may look something like this:
+
 `D:\Games\Wuthering Waves\Wuthering Waves Game`
 
 **It is important that you select the folder titled "Wuthering Waves Game" and NOT just "Wuthering Waves".**
