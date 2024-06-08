@@ -5,6 +5,20 @@ A simple frame rate modifying tool for the new Action RPG release, [Wuthering Wa
 
 ### Warning ⚠ : This tool **DOES** modify certain game files, and with this, it's use may carry the risk of punishment. By downloading this tool you understand and accept any risks, and are responsible for any and all consequences.
 
+## Run with Python CLI
+To run the FPS Unlocker with Python CLI, follow these steps:
+
+1. Make sure you have Python installed on your system. If not, you can download and install it from the official Python website.
+2. Open a command prompt or terminal and navigate to the directory where you have downloaded the FPS Unlocker.
+3. Install the required dependencies by running the following command:
+```
+pip install -r requirements.txt
+```
+4. Once the dependencies are installed, you can run the FPS Unlocker by executing the following command:
+```
+python main.py
+```
+
 ## Instructions
 1. Head over to the [releases](https://github.com/wakeupaj/wuwafpsunlocker/releases/) section on this repository, and download the latest release titled: "WuWa_FPS_Unlocker.zip".
 2. Once installed, open *(or extract if you prefer)* the .zip file, and launch "**WuWa FPS Unlocker.exe**"
@@ -27,8 +41,4 @@ A simple frame rate modifying tool for the new Action RPG release, [Wuthering Wa
 
 ### That's all! Your in-game framerate should now be uncapped from 60 FPS, and you can now experience Wuthering Waves in an brand new and ultra smooth way. If you run into any problems, please create an issue ticket. Enjoy!
 
-
-
 #### Please note! - This game is hard limited to run at 120 FPS, even after modifying game files. For this reason, this program will not include an FPS selector, and will instead set your game to the maximum possible frame rate.
-
-
